@@ -10,6 +10,8 @@
 <p align="center">
   <a href="https://www.s3cure.xyz">Discord bot</a>
   &nbsp;·&nbsp;
+  <a href="https://discord.gg/s3cure">Join our Discord</a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/s3cureofficial/s3cure-ssh-client/releases/latest">Download SSH Client</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/s3cureofficial/s3cure-ssh-client/issues">Report a bug</a>
@@ -41,4 +43,5 @@ A Discord bot that stops scams and raids. It shows up with your name and avatar,
 
 ### Contact
 
+Questions or feedback? Come say hi on our [Discord server](https://discord.gg/s3cure).
 Bugs and ideas go in the [issue tracker](https://github.com/s3cureofficial/s3cure-ssh-client/issues). If you found a security problem, please don't post it publicly. Report it privately as described in our [security policy](https://github.com/s3cureofficial/s3cure-ssh-client/security/policy).
