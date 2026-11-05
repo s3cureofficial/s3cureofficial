@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.webp" alt="S³cure: Safe. Simple. S3cure." width="480">
+  <img src="banner.png" alt="S³cure: Welcome" width="100%">
 </p>
 
 <p align="center">
