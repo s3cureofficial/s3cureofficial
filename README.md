@@ -1,6 +1,21 @@
-# S³cure
+<p align="center">
+  <img src="banner.svg" alt="S³cure" width="100%">
+</p>
 
-We build security tools for people who run servers and Discord communities. You shouldn't have to write code to use them.
+<p align="center">
+  We build security tools for people who run servers and Discord communities.<br>
+  You shouldn't have to write code to use them.
+</p>
+
+<p align="center">
+  <a href="https://github.com/s3cureofficial/s3cure-ssh-client/releases/latest">Download SSH Client</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/s3cureofficial/s3cure-ssh-client/issues">Report a bug</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/s3cureofficial/s3cure-ssh-client/security/policy">Security policy</a>
+</p>
+
+<br>
 
 ### Projects
 
